@@ -4,6 +4,10 @@
 * ffmpeg
 * 'click' module in python
 
+### How to make cut.exe?
+
+Easy. Install `pyintaller` and run `pyinstaller -F cut.py`
+
 ### Examples:
 
 	1) py cut.py 1.mp4 -time 5	
